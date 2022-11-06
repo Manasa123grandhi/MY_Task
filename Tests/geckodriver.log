@@ -1,0 +1,877 @@
+1667029534546	geckodriver	INFO	Listening on 127.0.0.1:56189
+1667029537860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilet5dtQu"
+1667029543444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1667029559973	Marionette	INFO	Listening on port 56197
+1667029560791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/ScPSp9QgI3uYCnbldQ_YgeakaIo/1cYmrSQXVaL1/QD9g/QiFQWz9x/WgoB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667029571243	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667029571259	Marionette	INFO	Stopped listening on port 56197
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667029646099	geckodriver	INFO	Listening on 127.0.0.1:56448
+1667029649127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilefpCC9O"
+1667029651936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667029657486	Marionette	INFO	Listening on port 56456
+1667029657633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/ScPSp9QgI3uYCnbldQ_YgeakaIo/1cYmrSQXVaL1/QD9g/QiFQWz9x/WgoB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667029665063	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667029666528	Marionette	INFO	Stopped listening on port 56456
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+[Parent 7404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667216948935	geckodriver	INFO	Listening on 127.0.0.1:61234
+1667216990695	geckodriver	INFO	Listening on 127.0.0.1:61358
+1667216995926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile1Xp7wJ"
+1667217019997	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:61359/devtools/browser/e4755662-0144-4616-b59d-c50143abcd55
+1667217041341	Marionette	INFO	Listening on port 61366
+1667217042774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/mzPtdA/AC0reh/Aema/vh9e0c/UX/JOYwwJQJ/Xmlu/FVYo/BWFPE2kB, line 1: unreachable code after return statement
+1667217054972	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667217062045	Marionette	INFO	Stopped listening on port 61366
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667217066404	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1667217264410	geckodriver	INFO	Listening on 127.0.0.1:61802
+1667217268655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileDIpp85"
+1667217276629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:61803/devtools/browser/52878d19-e972-4118-a512-2c6db317de90
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1667217298109	Marionette	INFO	Listening on port 61811
+!!! error running onStopped callback: TypeError: callback is not a function
+1667219891506	Marionette	INFO	Stopped listening on port 61811
+1667219892363	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+67217391618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/mzPtdA/AC0reh/Aema/vh9e0c/UX/JOYwwJQJ/Xmlu/FVYo/BWFPE2kB, line 1: unreachable code after return statement
+1667217411848	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667217418170	Marionette	INFO	Stopped listening on port 62061
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667217420430	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1667272608498	geckodriver	INFO	Listening on 127.0.0.1:56831
+1667272612866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56832" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilekiT6xw"
+1667272619406	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:56832/devtools/browser/94cff080-3a10-4c98-bd81-88b838122442
+1667272636620	Marionette	INFO	Listening on port 56839
+1667272638397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/F1Oh87baEPCa296YQY8o/kYruzrNmVEru/cUIiJF8eWA/Xzc/dLlpDL1UB, line 1: unreachable code after return statement
+1667272656186	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667272664259	Marionette	INFO	Stopped listening on port 56839
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667272667536	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1667272856138	geckodriver	INFO	Listening on 127.0.0.1:57134
+1667272860317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileNUx4Mk"
+1667272864299	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:57135/devtools/browser/bfa9a2db-0335-4ab8-99d5-48f7e9686ed5
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1667272877408	Marionette	INFO	Listening on port 57140
+1667272878348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/F1Oh87baEPCa296YQY8o/kYruzrNmVEru/cUIiJF8eWA/Xzc/dLlpDL1UB, line 1: unreachable code after return statement
+1667272886854	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667272894617	Marionette	INFO	Stopped listening on port 57140
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667272896789	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1667272977985	geckodriver	INFO	Listening on 127.0.0.1:57364
+1667272980952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57365" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileUYmebY"
+1667272982852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:57365/devtools/browser/a212e220-b8d5-46d3-8cdc-91ae32c3d3e2
+1667272988182	Marionette	INFO	Listening on port 57370
+1667272988567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/F1Oh87baEPCa296YQY8o/kYruzrNmVEru/cUIiJF8eWA/Xzc/dLlpDL1UB, line 1: unreachable code after return statement
+1667273001604	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667273008874	Marionette	INFO	Stopped listening on port 57370
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667273012447	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1667463406128	geckodriver	INFO	Listening on 127.0.0.1:51320
+1667463409010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileebBlux"
+1667463415065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 617))
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 171: NS_ERROR_XPC_GS_RETURNED_FAILURE: ServiceManager::GetService returned failure code:
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+[Parent 19092, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667463542509	geckodriver	INFO	Listening on 127.0.0.1:51454
+1667463545443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilelIoVfW"
+1667463555683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667463572815	Marionette	INFO	Listening on port 51462
+1667463574296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667463583779	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[Parent 28624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667463599869	Marionette	INFO	Stopped listening on port 51462
+1667463638032	geckodriver	INFO	Listening on 127.0.0.1:51680
+1667463641494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileWQMoEn"
+1667463643278	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667463649966	Marionette	INFO	Listening on port 51688
+1667463650029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667463659488	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667463663112	Marionette	INFO	Stopped listening on port 51688
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667463725882	geckodriver	INFO	Listening on 127.0.0.1:51939
+1667463728873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile5TkkE1"
+1667463730672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667463736686	Marionette	INFO	Listening on port 51953
+1667463737867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1667463742538	Marionette	INFO	Stopped listening on port 51953
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667464238284	geckodriver	INFO	Listening on 127.0.0.1:52168
+1667464241725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile0U3PQF"
+1667464248377	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667464266511	Marionette	INFO	Listening on port 52176
+1667464267738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667464282504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667464296882	Marionette	INFO	Stopped listening on port 52176
+[Parent 22092, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667469819735	geckodriver	INFO	Listening on 127.0.0.1:49815
+1667469823947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileaW4pJz"
+1667469838297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1667469867655	Marionette	INFO	Listening on port 49825
+1667469882062	Marionette	INFO	Stopped listening on port 49825
+1667469938001	geckodriver	INFO	Listening on 127.0.0.1:50061
+1667469940876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileOlJXNi"
+1667469942258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667469948565	Marionette	INFO	Listening on port 50072
+1667469949832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667469962816	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667469966353	Marionette	INFO	Stopped listening on port 50072
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667470394068	geckodriver	INFO	Listening on 127.0.0.1:50571
+1667470397391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileahkkLw"
+1667470403080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1667470419328	Marionette	INFO	Listening on port 50581
+1667470420111	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667470428446	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667470432874	Marionette	INFO	Stopped listening on port 50581
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667470871922	geckodriver	INFO	Listening on 127.0.0.1:51112
+1667470874581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile78oOg5"
+1667470880848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667470901812	Marionette	INFO	Listening on port 51124
+1667470902678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667470911871	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667470913982	Marionette	INFO	Stopped listening on port 51124
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667471112721	geckodriver	INFO	Listening on 127.0.0.1:51509
+1667471116165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile5GnYmV"
+1667471128703	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1667471157817	Marionette	INFO	Listening on port 51518
+1667471159200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667471175734	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667471183265	Marionette	INFO	Stopped listening on port 51518
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667471527500	geckodriver	INFO	Listening on 127.0.0.1:52096
+1667471531111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileefECX1"
+1667471536277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667471553282	Marionette	INFO	Listening on port 52105
+1667471553808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667471576226	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667471583066	Marionette	INFO	Stopped listening on port 52105
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667473330241	geckodriver	INFO	Listening on 127.0.0.1:53324
+1667474154199	geckodriver	INFO	Listening on 127.0.0.1:54382
+1667474157067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilem1Sd2V"
+1667474163011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667474180198	Marionette	INFO	Listening on port 54391
+1667474181083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667474207442	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667474213644	Marionette	INFO	Stopped listening on port 54391
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667474442332	geckodriver	INFO	Listening on 127.0.0.1:54837
+1667474445342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileiOSHRg"
+1667474446340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667474451823	Marionette	INFO	Listening on port 54847
+1667474452819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667474463778	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667474469870	Marionette	INFO	Stopped listening on port 54847
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667474913617	geckodriver	INFO	Listening on 127.0.0.1:55390
+1667474916642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilekcY9mC"
+1667474917804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667474923672	Marionette	INFO	Listening on port 55398
+1667474925276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667474933994	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667474939973	Marionette	INFO	Stopped listening on port 55398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667475356843	geckodriver	INFO	Listening on 127.0.0.1:55961
+1667475359616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilepWDevL"
+1667475362199	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 172: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  AbortError
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  AbortError
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667475653814	geckodriver	INFO	Listening on 127.0.0.1:56296
+1667475657016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileVriGug"
+1667475663257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1667475679153	Marionette	INFO	Listening on port 56305
+1667475679818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+1667475689184	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667475696554	Marionette	INFO	Stopped listening on port 56305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667476137775	geckodriver	INFO	Listening on 127.0.0.1:56955
+1667476141296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileAZ5wC2"
+1667476147129	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1667476166475	Marionette	INFO	Listening on port 56965
+1667476167767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667476179439	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667476186584	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.goibibo.com/trains/review/d/?query=SBC-NZM-20221104-22691-3A-GN&boardingStn=&username=&enable_fc=false&enable_tg=true&in_source=, line 63: TypeError: document.getElementById(...) is null
+1667476190717	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667476192918	Marionette	INFO	Stopped listening on port 56965
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667476392710	geckodriver	INFO	Listening on 127.0.0.1:57375
+1667476395718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileV3I5jI"
+1667476397964	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667476403421	Marionette	INFO	Listening on port 57385
+1667476404406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667476413771	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667476422548	Marionette	INFO	Stopped listening on port 57385
+[Parent 23144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667477211438	geckodriver	INFO	Listening on 127.0.0.1:58103
+1667477214263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileN0T9pL"
+1667477219141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1667477237205	Marionette	INFO	Listening on port 58113
+1667477308727	geckodriver	INFO	Listening on 127.0.0.1:58328
+1667477311752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilepM3Li6"
+1667477315758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667477322405	Marionette	INFO	Listening on port 58337
+1667477323175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667477332370	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667477341534	Marionette	INFO	Stopped listening on port 58337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667477675482	geckodriver	INFO	Listening on 127.0.0.1:58001
+1667477678702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile9IUmIu"
+1667477682138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667477692259	Marionette	INFO	Listening on port 58009
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1667477694871	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+1667477698745	Marionette	INFO	Stopped listening on port 58009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667477846534	geckodriver	INFO	Listening on 127.0.0.1:58199
+1667477850132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileCMpYB5"
+1667477853968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667477861872	Marionette	INFO	Listening on port 58207
+1667477899379	geckodriver	INFO	Listening on 127.0.0.1:58387
+1667477902373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile2szBaq"
+1667477905187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667477913227	Marionette	INFO	Listening on port 58395
+1667477913899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+JavaScript error: chrome://marionette/content/driver.js, line 292: TypeError: this.currentSession is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B000F,name=PHttpChannel::Msg_FailedAsyncOpen) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A006E,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A006C,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A006D,name=PContent::Msgconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1667479952285	Marionette	INFO	Stopped listening on port 58651
+/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A004D,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1667479793353	Marionette	INFO	Stopped listening on port 58395
+nListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667478216156	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667478225645	Marionette	INFO	Stopped listening on port 58833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667478346064	geckodriver	INFO	Listening on 127.0.0.1:59126
+1667478348791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilevwX9NT"
+1667478352491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667478361250	Marionette	INFO	Listening on port 59134
+1667478362657	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667478377421	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667478384883	Marionette	INFO	Stopped listening on port 59134
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667478568314	geckodriver	INFO	Listening on 127.0.0.1:59445
+1667478571255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileD20dQK"
+1667478575484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1667478590253	Marionette	INFO	Listening on port 59453
+1667478592368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667478625770	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667478638648	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1667478671986	Marionette	INFO	Stopped listening on port 59453
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667478901334	geckodriver	INFO	Listening on 127.0.0.1:59796
+1667478904384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileEykCli"
+1667478915915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667478934046	Marionette	INFO	Listening on port 59804
+1667478935270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667478951491	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+1667478963532	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bxt1Q/nNqDBQB, line 1: unreachable code after return statement
+JavaScript error: https://www.goibibo.com/trains/review/d/?query=SBC-NZM-20221104-22691-2A-GN&boardingStn=&username=&enable_fc=false&enable_tg=true&in_source=, line 63: TypeError: document.getElementById(...) is null
+1667478973096	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1667479006214	Marionette	INFO	Stopped listening on port 59804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667479120855	geckodriver	INFO	Listening on 127.0.0.1:60096
+1667479125356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile3N76cL"
+1667479130415	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667479141201	Marionette	INFO	Listening on port 60104
+1667479896360	Marionette	INFO	Stopped listening on port 60104
+7479489129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileaQLNNW"
+1667479503802	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667479594636	Marionette	INFO	Listening on port 60362
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1667483441675	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1667483533569	Marionette	INFO	Stopped listening on port 60362
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667483802135	geckodriver	INFO	Listening on 127.0.0.1:60828
+1667483806744	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilewAdwDX"
+1667483831851	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1667483856378	Marionette	INFO	Listening on port 60837
+1667483877862	Marionette	INFO	Stopped listening on port 60837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667484079744	geckodriver	INFO	Listening on 127.0.0.1:60398
+1667484083078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileqoEW9X"
+1667484085021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667484091416	Marionette	INFO	Listening on port 60406
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1667484093958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+1667484111205	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+1667484122031	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+1667484126136	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.goibibo.com/trains/review/d/?query=SBC-NZM-20221104-22691-1A-GN&boardingStn=&username=&enable_fc=true&enable_tg=false&in_source=, line 63: TypeError: document.getElementById(...) is null
+1667484127561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1667484158271	Marionette	INFO	Stopped listening on port 60406
+1667484320389	geckodriver	INFO	Listening on 127.0.0.1:60686
+1667484323312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileSe1Zbr"
+1667484329753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1667484350278	Marionette	INFO	Listening on port 60696
+1667484351128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667484367983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+1667484377843	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+JavaScript error: https://www.goibibo.com/trains/review/d/?query=SBC-NZM-20221104-22691-3A-TQ&boardingStn=&username=&enable_fc=true&enable_tg=false&in_source=, line 63: TypeError: document.getElementById(...) is null
+1667484384670	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1667484411560	Marionette	INFO	Stopped listening on port 60696
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667484561337	geckodriver	INFO	Listening on 127.0.0.1:61007
+1667484563644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofiledmbH3j"
+1667484566030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667484572011	Marionette	INFO	Listening on port 61015
+1667484572513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667484586913	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+1667484597146	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/Q8DmwOO9ksl_ulhqew/EmfumwNruV/MipNNQ/bhRgH/1BVBRMB, line 1: unreachable code after return statement
+JavaScript error: https://www.goibibo.com/trains/review/d/?query=SBC-NZM-20221104-22691-1A-GN&boardingStn=&username=&enable_fc=true&enable_tg=false&in_source=, line 63: TypeError: document.getElementById(...) is null
+1667484604029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1667484629868	Marionette	INFO	Stopped listening on port 61015
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667640131409	geckodriver	INFO	Listening on 127.0.0.1:56843
+1667640134128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilepDNntx"
+1667640140709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667640154617	Marionette	INFO	Listening on port 56851
+1667640155253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+1667640171624	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+1667640185527	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+JavaScript error: https://www.goibibo.com/trains/review/d/?query=SBC-NZM-20221106-22691-2A-GN&boardingStn=&username=&enable_fc=true&enable_tg=false&in_source=, line 63: TypeError: document.getElementById(...) is null
+1667640189538	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1667640222170	Marionette	INFO	Stopped listening on port 56851
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667640225102	geckodriver	INFO	Listening on 127.0.0.1:57039
+1667640228135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile8cnfZb"
+1667640230861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1667640243492	Marionette	INFO	Listening on port 57047
+1667640245832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667640255404	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+1667640267267	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+JavaScript error: https://www.goibibo.com/trains/review/d/?query=SBC-NZM-20221106-22691-2A-GN&boardingStn=&username=&enable_fc=true&enable_tg=false&in_source=, line 63: TypeError: document.getElementById(...) is null
+1667640270600	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1667640298886	Marionette	INFO	Stopped listening on port 57047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667640301803	geckodriver	INFO	Listening on 127.0.0.1:57198
+1667640304916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileaXaks4"
+1667640306267	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667640314843	Marionette	INFO	Listening on port 57206
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1667640318239	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+1667640330469	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+1667640341206	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+1667640344233	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.goibibo.com/trains/review/d/?query=SBC-NZM-20221106-22691-2A-GN&boardingStn=&username=&enable_fc=true&enable_tg=false&in_source=, line 63: TypeError: document.getElementById(...) is null
+1667640347693	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1667640373709	Marionette	INFO	Stopped listening on port 57206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1667640376475	geckodriver	INFO	Listening on 127.0.0.1:57360
+1667640379516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofilejv7fOm"
+1667640381036	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1667640388138	Marionette	INFO	Listening on port 57368
+1667640389059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.goibibo.com/trains/, line 105: SyntaxError: missing ] after element list
+JavaScript note: https://www.goibibo.com/trains/, line 105: [ opened at line 105, column 25
+JavaScript warning: https://www.goibibo.com/UZQtjnM_-EJkrAWr855T/Yka9NmSVi5/b0Rn/ZSwkPW/IjKUwB, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/PartitioningExceptionListService.jsm, line 69: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIPartitioningExceptionListObserver.onExceptionListUpdate]
+JavaScript error: , line 0: TypeError: ServiceWorker script 1667640396828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile6Li9Nf"
+1667640397913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: "Could not load engine google@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+[Parent 28868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
